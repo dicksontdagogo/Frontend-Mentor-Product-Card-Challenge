@@ -13,7 +13,7 @@ body {
 }
 
 .image-card {
-  background-image: url(/image-product-desktop.jpg);
+  background-image: url(image-product-desktop.jpg);
   background-size: cover;
   height: 550px;
   flex: 1;
