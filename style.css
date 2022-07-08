@@ -110,7 +110,7 @@ h4 {
     height: 70vh;
   }
   .image-card {
-    background-image: url(/image-product-mobile.jpg);
+    background-image: url(image-product-mobile.jpg);
     flex: 1;
     border-top-right-radius: 15px;
     border-bottom-left-radius: 0;
@@ -169,7 +169,7 @@ h4 {
     justify-content: center;
   }
   .image-card {
-    background-image: url(/image-product-mobile.jpg);
+    background-image: url(image-product-mobile.jpg);
     flex: 1;
     border-top-right-radius: 15px;
     border-bottom-left-radius: 0;
